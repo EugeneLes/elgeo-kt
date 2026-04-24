@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ElGeo</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_history">History</string>
+    <string name="tab_settings">Settings</string>
+    <string name="location_permission_rationale">ElGeo needs location access to show speed, altitude, and track trips.</string>
+    <string name="background_location_rationale">Allow background location access to continue tracking when the screen is off.</string>
 </resources>
